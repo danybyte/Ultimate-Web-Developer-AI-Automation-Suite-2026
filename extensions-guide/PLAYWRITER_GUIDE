@@ -1,0 +1,56 @@
+# 🤖 Playwriter: The Ultimate AI-to-Browser Bridge
+
+## 🌟 Overview
+**Playwriter** is a revolutionary Chrome extension that acts as a secure tunnel between your local AI agents (running in VS Code, Cursor, or any MCP client) and your active browser tabs. Unlike standard automation tools, it doesn't require complex setup or "Headless" browser configurations.
+
+---
+
+## 🚀 Why Playwriter is a Game Changer
+
+### 1. Zero-Config Automation
+Instead of writing 100 lines of Python or Node.js code to log into a site, Playwriter uses your **existing browser session**. If you are logged into GitHub, your AI is logged into GitHub.
+
+### 2. MCP (Model Context Protocol) Native
+It’s designed to work perfectly with the new MCP standard. This means your AI doesn't just "talk" about the web—it "interacts" with it.
+
+### 3. Bypass Anti-Bot Systems
+Most websites block automation tools like Selenium. Since Playwriter runs inside your actual Chrome instance with real user-agent strings and cookies, it’s virtually invisible to anti-bot shields.
+
+---
+
+## 🛠 Setup & Integration (The Technical Bit)
+
+To connect Playwriter to your **Codex / MCP Settings**, use the following configuration:
+
+| Field | Value |
+| :--- | :--- |
+| **Name** | `playwriter` |
+| **Command** | `npx` |
+| **Arguments** | `playwriter@latest` |
+
+### The "Green Icon" Rule:
+For security, Playwriter only allows the AI to see tabs that you have explicitly authorized.
+1. Click the Playwriter extension icon in your Chrome bar.
+2. Ensure the icon turns **Green**.
+3. Now the AI has full "Eyes and Hands" on that specific tab.
+
+---
+
+## 💡 Pro Use-Cases (What to ask your AI)
+
+Once connected, try asking your AI these commands in VS Code:
+
+* **Data Extraction:** *"Use Playwriter to go to the current tab, find all the pricing cards, and give me a JSON summary of the features and costs."*
+* **UI/UX Audit:** *"Look at the navigation menu on this page. Are there any broken links or accessibility (ARIA) issues?"*
+* **Form Automation:** *"Fill out this contact form using my profile details but don't click 'Submit' yet—just show me the result."*
+* **Workflow Integration:** *"Go to my dashboard, take a screenshot of the latest analytics chart, and save it to my project folder."*
+
+---
+
+## ⚠️ Security & Privacy
+* **Local Only:** The communication happens locally on your machine (usually port `19988`).
+* **Explicit Permission:** The AI cannot "jump" to other tabs unless you click the extension icon for that tab.
+
+---
+
+[⬅️ Back to main Toolkit](./README.md)
