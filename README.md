@@ -17,28 +17,28 @@ Master the web with this curated collection of Chrome extensions for technical a
 ## 🕵️ 1. Competitive Intelligence & Technical Analysis
 *Tools to dissect any website's DNA and traffic.*
 
-* **Wappalyzer** • *Identify tech stacks.* | [Store](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmccnjnipcjjodajndllnoghlke)
+* **Wappalyzer** • *Identify tech stacks.* | [Store](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
 * **Similarweb** • *Traffic & analytics.* | [Store](https://chromewebstore.google.com/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpejgmocibaoeanbh)
 * **Web Developer** • *Dissect HTML/CSS.* | [Store](https://chromewebstore.google.com/detail/web-developer/bfbameneiihcebeonccbaiobbhehdace)
-* **WhatFont** • *Typography ID.* | [Store](https://chromewebstore.google.com/detail/whatfont/jabpfojjobmbedeldbnknjaeboneajal)
+* **WhatFont** • *Typography ID.* | [Store](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
 ---
 
 ## 🤖 2. AI Automation & Modern Workflow
 *Bridge the gap between your IDE and the browser.*
 
-* **Playwriter** • *VS Code to Browser bridge.* | [Store](https://chromewebstore.google.com/detail/playwriter/jfeammnjpkecdekppnclgkkffahnhfhe)
-* **Summario** • *AI content distillation.* | [Store](https://chromewebstore.google.com/detail/summario/mndgfbclidandmffdgfndpgebebloonh)
+* **Playwright CRX** • *Browser automation & recording.* | [Store](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd)
+* **Summario** • *AI content distillation.* | [Store](https://chromewebstore.google.com/detail/summario-ai-youtube-summa/bnlmplicmifihkbfbilkkildcpmpkmon)
 
 ---
 
 ## 📐 3. Precision Engineering & Design
 *Surgical precision for UI/UX and data structures.*
 
-* **Color Picker** • *HEX/RGB grabbing.* | [Store](https://chromewebstore.google.com/detail/color-picker/clpnhpbeonhcehoojpaoojibknabubdb)
-* **Page Ruler Redux** • *Pixel measurements.* | [Store](https://chromewebstore.google.com/detail/page-ruler-redux/jlpkojjdgbllghbjcmleidippjjpehjn)
-* **Mobile Simulator** • *Device-accurate testing.* | [Store](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ecojfehdolbhhpdbjcaepbebaecajfcl)
-* **JSON Viewer** • *Readable API data.* | [Store](https://chromewebstore.google.com/detail/json-viewer/gbmdgocenclidppncbeadhbaidgoenno)
+* **ColorPick Eyedropper** • *HEX/RGB grabbing.* | [Store](https://chromewebstore.google.com/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
+* **Page Ruler** • *Pixel measurements.* | [Store](https://chromewebstore.google.com/detail/page-ruler/jcbmcnpepaddcedmjdcmhbekjhbfnlff)
+* **Mobile Simulator** • *Device-accurate testing.* | [Store](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
+* **JSON Viewer** • *Readable API data.* | [Store](https://chromewebstore.google.com/detail/json-viewer/aimiinbnnkboelefkjlenlgimcabobli)
 
 ---
 
@@ -46,9 +46,9 @@ Master the web with this curated collection of Chrome extensions for technical a
 *Clean up your workspace and close the feedback loop.*
 
 * **uBlock Origin** • *Clean testing environment.* | [Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-* **OneTab** • *Save RAM & manage tabs.* | [Store](https://chromewebstore.google.com/detail/onetab/chphlpgncheabbnboojckhcjebbdbdfg)
-* **Usersnap** • *Visual bug reporting.* | [Store](https://chromewebstore.google.com/detail/usersnap-visual-feedback/mclpdpocgabofdbdbnngocneocghpdan)
-* **Markdown Here** • *Format mail with MD.* | [Store](https://chromewebstore.google.com/detail/markdown-here/ghmbegeabklminbhkhakpjiihnoocnmo)
+* **OneTab** • *Save RAM & manage tabs.* | [Store](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+* **Usersnap** • *Visual bug reporting.* | [Store](https://chromewebstore.google.com/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd)
+* **Markdown Here** • *Format mail with MD.* | [Store](https://chromewebstore.google.com/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
 
 ---
 
