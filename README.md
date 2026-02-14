@@ -1,4 +1,4 @@
-# 🚀 Ultimate Web Developer & AI Automation Suite 2026
+# 🚀 Ultimate Extension source
 
 Master the web with this curated collection of Chrome extensions for technical analysis, pixel-perfect design, and seamless AI browser control.
 
